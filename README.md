@@ -209,12 +209,5 @@ Based on the training runs:
 - All models are trained on the same data, only ordering differs
 - Evaluation includes both quantitative (perplexity) and qualitative (generation, minimal pairs) metrics
 
-## License
 
-[Add your license information here]
-
-## Citation
-
-If you use this code, please cite:
-[Add citation information here]
 
