@@ -1,4 +1,4 @@
-# Telugu Language Model Training Project
+# Telugu Language Model (Research Project)
 
 This project implements curriculum learning for training small GPT-2 models on Telugu text data. The project includes data preparation, tokenizer creation, model training, and comprehensive evaluation.
 
